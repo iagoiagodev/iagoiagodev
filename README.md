@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/d3/4f/8b/d34f8bc75c2860fc863f896e883e13e8.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/90/03/48/90034831c155c872a69c36f22ebfc182.gif"  />
 
 ###
 
@@ -43,7 +43,7 @@
 
 <br clear="both">
 
-<img src="snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/iagoiagodev/iagoiagodev/output/snake.svg" alt="Snake animation" />
 
 ###
 
