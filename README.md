@@ -5,8 +5,8 @@
 <h3 align="left">👾 About Me</h3>
 
 <p align="left">
-  I'm a passionate developer, eager to keep learning and improving my skills! 💻
-  I specialize in front-end development and work hard to bring the best user experiences with clean and efficient code.
+  I'm an Information Systems student with knowledge in Javascript, React, SQL, HTML, CSS, and data analysis. 📚
+  Still figuring out how to become a coding wizard, but getting there one bug at a time! 🧙‍♂️💻
 </p>
 
 <!-- Goku gif -->
