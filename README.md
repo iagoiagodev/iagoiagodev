@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Iago, and I'm a Web Developer and Information Systems student from Brazil.</h2>
+<h2 align="left">🤙 Hi! My name is Iago, and I'm a Web Developer</h2>
 
 ###
 
@@ -9,7 +9,17 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/d3/4f/8b/d34f8bc75c2860fc863f896e883e13e8.gif"  />
+<h3>👾 About Me</h3>
+
+<p align="left">
+  I'm a passionate developer, eager to keep learning and improving my skills! 💻
+  I specialize in front-end development and work hard to bring the best user experiences with clean and efficient code.
+</p>
+
+<!-- Goku gif -->
+<div align="center">
+  <img height="150" src="https://i.pinimg.com/originals/d3/4f/8b/d34f8bc75c2860fc863f896e883e13e8.gif" alt="Goku gif" />
+</div>
 
 ###
 
@@ -47,5 +57,3 @@
 ###
 
 <p align="center">Hello World!!</p>
-
-###
