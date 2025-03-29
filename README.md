@@ -5,7 +5,7 @@
 <h3 align="left">👾 About Me</h3>
 
 <p align="left">
-  I'm an Information Systems student with knowledge in Javascript, React, SQL, HTML, CSS, and data analysis. 📚
+  I'm an Information Systems student with knowledge in Javascript, React, SQL, HTML, CSS, and data analysis.
   Still figuring out how to become a coding wizard, but getting there one bug at a time! 🧙‍♂️💻
 </p>
 
