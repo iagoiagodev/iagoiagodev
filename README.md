@@ -24,7 +24,7 @@
 
 ###
 
-<h3>📱 Socials</h3>
+<h3>📱 Contact</h3>
 <div align="left">
   <a href="https://discord.gg/xKSGnyd4" target="_blank">
     <img src="https://img.shields.io/static/v1?message=iagoiago&logo=discord&label=Discord:&color=202225&logoColor=white&labelColor=7289DA&style=for-the-badge" height="35" alt="discord logo"/>
