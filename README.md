@@ -1,8 +1,8 @@
-<h2 align="centers">🤙 Hi! My name is Iago, and I'm a Web Developer</h2>
+<h2 align="center">🤙 Hi! My name is Iago, and I'm a Web Developer</h2>
 
 ###
 
-<h3>👾 About Me</h3>
+<h3 align="center">👾 About Me</h3>
 
 <p align="center">
   I'm a passionate developer, eager to keep learning and improving my skills! 💻
@@ -23,8 +23,8 @@
 
 ###
 
-<h3>💻 Skills</h3>
-<div align="left">
+<h3 align="center">💻 Skills</h3>
+<div align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30" alt="javascript logo"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30" alt="react logo"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="mysql logo"/>
@@ -34,9 +34,9 @@
 
 ###
 
-<h3>📱 Contact</h3>
+<h3 align="center">📱 Contact</h3>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/iago-laferl-3726b1237/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Iago%20Laferl&logo=linkedin&label=LinkedIn&color=202225&logoColor=white&labelColor=0077B5&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
