@@ -10,13 +10,13 @@
 </p>
 
 <!-- Goku gif -->
-<div align="left">
+<div align="center">
   <img height="150" src="https://i.pinimg.com/originals/d3/4f/8b/d34f8bc75c2860fc863f896e883e13e8.gif" alt="Goku gif" />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iagoiagodev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iagoiagodev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -41,10 +41,10 @@
     <img src="https://img.shields.io/static/v1?message=Iago%20Laferl&logo=linkedin&label=LinkedIn&color=202225&logoColor=white&labelColor=0077B5&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://discord.gg/xKSGnyd4" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=iagoiago&logo=discord&label=Discord:&color=202225&logoColor=white&labelColor=7289DA&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=iagoiago&logo=discord&label=Discord&color=202225&logoColor=white&labelColor=7289DA&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="iagolaferl1401@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=iagolaferl1401@gmail.com&logo=gmail&label=Gmail:&color=202225&logoColor=white&labelColor=D14836&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:iagolaferl1401@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=iagolaferl1401@gmail.com&logo=gmail&label=Gmail&color=202225&logoColor=white&labelColor=D14836&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
 
@@ -52,8 +52,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/iagoiagodev/iagoiagodev/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iagoiagodev/iagoiagodev/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="center">Hello World!!</p>
