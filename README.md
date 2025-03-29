@@ -25,15 +25,16 @@
 ###
 
 <h3>📱 Contact</h3>
+
 <div align="left">
-  <a href="https://discord.gg/xKSGnyd4" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=iagoiago&logo=discord&label=Discord:&color=202225&logoColor=white&labelColor=7289DA&style=for-the-badge" height="35" alt="discord logo"/>
-  </a>
-  <a href="mailto:iagolaferl1401@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
-  </a>
   <a href="https://www.linkedin.com/in/iago-laferl-3726b1237/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
+    <img src="https://img.shields.io/static/v1?message=Iago%20Laferl&logo=linkedin&label=LinkedIn&color=202225&logoColor=white&labelColor=0077B5&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/xKSGnyd4" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=iagoiago&logo=discord&label=Discord:&color=202225&logoColor=white&labelColor=7289DA&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="iagolaferl1401@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=iagolaferl1401@gmail.com&logo=gmail&label=Gmail:&color=202225&logoColor=white&labelColor=D14836&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
 
