@@ -37,7 +37,7 @@
 <h3 align="left">📱 Contact</h3>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/iago-laferl-3726b1237/" target="_blank">
+  <a href="https://www.linkedin.com/in/iagolaferl/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Iago%20Laferl&logo=linkedin&label=LinkedIn&color=202225&logoColor=white&labelColor=0077B5&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://discord.gg/xKSGnyd4" target="_blank">
